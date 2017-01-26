@@ -1,0 +1,58 @@
+h1 { font-family: 'Open-Sans', sans-serif;
+    font-size: 48px;
+    position: absolute;
+    color: white;
+    margin-top: 200px;
+    margin-left: 300px;
+  }
+
+body { font-family: 'Open-Sans', sans-serif;
+  color: rgb(105, 120, 130);
+  font-size: 18px;
+}
+
+img { width: 800px;
+  height: 450px;
+  margin-right: 300px;
+  padding-bottom: 40px;
+}
+
+.full {
+  width: 60%;
+  margin-left: 150px;
+  position: absolute;
+}
+
+.description {
+  margin-left: 80px;
+  margin-right: 70px;
+  padding-bottom: 30px;
+}
+
+#recipeinfo {
+  width: 270px;
+  height: 50px;
+  margin-left: 260px;
+  padding-bottom: 20px;
+}
+
+#cookinginfo  {
+  width: 280px;
+  height: 60px;
+  margin-left: 260px;
+  padding-bottom: 30px;
+}
+
+
+.titles {
+  padding-top: 20px;
+  margin-left: 80px;
+  font-weight: bold;
+}
+
+ul {
+  margin-left: 60px;
+  margin-right: 50px;
+  list-style-type: none;
+  padding-bottom: 30px;
+}
